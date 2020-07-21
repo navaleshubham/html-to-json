@@ -18,4 +18,16 @@ function getdata(){
 }
 getdata();
  
-name,moveindate,phone,email,adress,price,beds,bath,status,days,agent,agentphone,broker
+// name : buyer name,
+// moveindate: move in date,
+// phone:buyer phone Number,
+// email:buyer email id,
+// adress:property adress,
+// price:property price,
+// beds:number of beds,
+// bath:number of bath,
+// status:active status,
+// days:advertizement age,
+// agent:agent name,
+// agentphone:agent phone number,
+// broker: broker name
